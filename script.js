@@ -1,5 +1,7 @@
 //programs in anonymous function & IIFE
 
+ //programs in arrow functions
+ 
 //1.Print odd numbers in an array;
 //anonymous function
 var odd=[];
